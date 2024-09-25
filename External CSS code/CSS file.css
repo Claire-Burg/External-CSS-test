@@ -1,0 +1,22 @@
+<link href="styles/CSS_file" rel="stylesheet" />
+        h1 {
+    color: rgb(255, 189, 240);
+    background-color: rgb(216, 238, 255);
+    border: 1px solid rgb(75, 6, 109);
+  }
+@font-face {
+  font-family: Main font;
+  src: sansation_light.woff;
+}
+
+  p {
+    color: firebrick;
+    background-color: lightgoldenrodyellow;
+  }
+  .box {
+    margin: 30px;
+  width: 100px;
+  height: 100px;
+  background-color: firebrick;
+  transform: rotate(0.8turn);
+  }
